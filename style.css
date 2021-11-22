@@ -1,0 +1,27 @@
+header {
+  background: rgb(10, 20, 110);
+  padding: 2% 3%;
+}
+.convert {
+  height: 259px;
+  padding: 28px 37px;
+  border-radius: 2% 2%;
+  /* box-shadow: black; */
+}
+header h1,
+p {
+  color: #fff;
+}
+
+label.form__label {
+  color: #000;
+  font-size: 20px;
+}
+
+option {
+  color: #000;
+}
+
+.converter {
+  width: 33%;
+}
